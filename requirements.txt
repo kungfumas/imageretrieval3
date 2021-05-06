@@ -1,6 +1,6 @@
 cloudinary==1.8.0
 Flask==0.12.2
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 Flask-MySQL==1.4.0
 Flask-PyMongo==0.5.1
 gevent==1.2.1
