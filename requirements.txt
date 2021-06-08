@@ -15,7 +15,7 @@ numpy==1.12.1
 numpydoc==0.6.0
 openpyxl==2.4.7
 pandas==0.20.1
-Pillow==4.1.1
+Pillow==8.2.0
 pymongo==3.5.1
 PyMySQL==0.7.11
 requests==2.9.1
